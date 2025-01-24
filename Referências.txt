@@ -1,0 +1,41 @@
+1 - Locke, J. Ensaio acerca do entendimento humano (Os Pensadores). São Paulo, Nova Cultural, 1987, p. 212.
+
+2 – Leslie, I. “Curious: The Desire to Know and Why Your Future Depends on It”. Reino Unido, Quercus, 2014.
+
+3 - Porto Editora – “-logia” no Dicionário infopédia de Termos Médicos [em linha]. Porto: Porto Editora.  Disponível em https://www.infopedia.pt/dicionarios/termos-medicos/-logia. Acesso em: 11 dez. 2023.
+
+4 - Eriksen, T. H. “What Is Anthropology?”, Pluto Press, 2017, pp. 3–18. JSTOR Disponível em: https://doi.org/10.2307/j.ctt1pv89ct.4. Acesso em: 11 dez. 2023.
+
+5 - Machado, C. E. P. et al. Tratado de antropologia forense: fundamentos em metodologias aplicadas à prática pericial. 1. ed. Campinas, SP: Millennium Editora, 2022.
+
+6 - PNDS - Pesquisa Nacional de Demografia e Saúde. Antropometria. Disponível em: https://bvsms.saude.gov.br/bvs/pnds/img/Minicurso_PNDS2006_8_Antropometria.pdf. Acesso em: 29 mai. 2024.
+
+7 - Fully G. Une nouvelle méthod de détermination de la taille [Novo método para determinação da estatura]. Ann Med Leg Criminol Police Sci Toxicol. 1956. Disponível em: https://pubmed.ncbi.nlm.nih.gov/13395069/. Acesso em: 12 dez. 2023.
+
+8 - Raxter M. H.; AuerbachB. M.; Ruff C. B. Revision of the Fully technique for estimating statures. Am J Phys Anthropol. 2006. Disponível em: https://pubmed.ncbi.nlm.nih.gov/16425177/. Acesso em: 12 dez. 2023
+
+9 - Scientific Working Group for Forensic Anthropology (SWGANTH). Stature Estimation. National Institute of Standards and Technology, 2012. Disponível em: https://www.nist.gov/system/files/documents/2018/03/13/swganth_stature_estimation.pdf. Acesso em: 12 dez. 2023.
+
+10 - Albanese J. et al. An alternative approach for estimating stature from long bones that is not population- or group-specific. Forensic Sci Int, 2016. Disponível em: https://pubmed.ncbi.nlm.nih.gov/26750990/. Acesso em: 14 dez. 2023.
+
+11 - Cordeiro, C. et al. Predicting adult stature from metatarsal length in a Portuguese population. Forensic Science International, v.193, n. 1–3, p. 131, 2009. Disponível em: https://doi.org/10.1016/j.forsciint.2009.09.017. Acesso em: 03 jan. 2024.
+
+12 – Rodríguez, S. et al. Estimating adult stature from radiographically determined metatarsal length in a Spanish population. Forensic Science International, v.226, n 1–3, p. 297, 2013. Disponível em: https://doi.org/10.1016/j.forsciint.2012.12.006. Acesso em: 22 jan. 2024.
+
+13 – Borborema et al. Determinaçãoo da estatura por meio da medida de ossos longos, secos, dos membros inferiores e ossos da pelve. Dissertação (Mestrado), Universidade Estadual de Campinas, Faculdade de Odontologia de Piracicaba. Piracicaba, SP, 2007. Disponível em: https://core.ac.uk/download/pdf/296844065.pdf. Acesso em: 12 dez. 2023.
+
+14 - Freire, J. J. B. Estatura: dado fundamental em antropologia forense. 2000. 83f. Dissertação (mestrado) - Universidade Estadual de Campinas, Faculdade de Odontologia de Piracicaba, Piracicaba, SP, 2000. Disponível em: https://hdl.handle.net/20.500.12733/1592924. Acesso em: 14 dez. 2023.
+
+15 - Freire J. J. B. Estatura como Dado Fundamental em Antropologia Forense: Definindo um Padrão para Estimativa de Estatura no Brasil. Persp Med Legal Perícia Med. São Paulo, SP. 2016. Disponível em: https://www.perspectivas.med.br/2016/09/estatura-dado-fundamental-em-antropologia-forense. Acesso em: 14 dez. 2023.
+
+16 - Mellega, R. Validação das principais técnicas de determinação da estatura existentes e aplicadas em amostras de cadáveres brasileiros. Dissertação (Mestrado em Odontologia legal e deontologia) – Universidade Estadual de Campinas, Faculdade de Odontologia de Piracicaba, Piracicaba, SP. 2004. Disponível em: https://hdl.handle.net/20.500.12733/1597138. Acesso em: 14 dez. 2023.
+
+17 - Fernandes, C. R. et al. A aplicabilidade forense da relação antropométrica entre o fêmur e o primeiro metacarpo para o cálculo da estatura humana. Anais. Ribeirão Preto: Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo, 2010. Disponível em: https://repositorio.usp.br/item/002160020. Acesso em: 18 dez. 2023.
+
+18 - Buikstra & Uberlaker. Standards for data collection from human skeletal remains. In: Seminar at the field museum of natural history. Fayetteville, AK, 1994.
+
+19 - Lin L. I. A Concordance Correlation Coefficient to Evaluate Reproducibility. Bio-metrics, v.45, p.255–268, 1989. Disponível em: https://doi.org/10.2307/2532051. Acesso em: 30 out 2024.
+
+20 – Cicchetti, D. Guidelines, Criteria, and Rules of Thumb for Evaluating Normed and Standardized Assessment Instrument in Psychology. Psychological Assessment. v.6, p. 284-290, 1994. Disponível em: https://www.researchgate.net/publication/232556850_Guidelines_Criteria_and_Rules_of_Thumb_for_Evaluating_Normed_and_Standardized_Assessment_Instrument_in_Psychology. Acesso em: 30 abr. 2024.
+
+21 - R CORE TEAM. R: A language and environment for statistical computing. Vienna, Austria: R Foundation for Statistical Computing, 2023. Disponível em: https://www.R-project.org/. Acesso em: 25 set. 2024
